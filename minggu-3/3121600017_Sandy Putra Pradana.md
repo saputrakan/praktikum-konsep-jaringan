@@ -34,7 +34,7 @@ Dan yang terjadi adalah adanya broadcast lagi ke semua pc yang ada.
 
 ![Gambar 7](../assets/minggu-3/pkjpak7.PNG)
 
-Isi arp pada pc 2 menyimpan alamat ip pc 0.
+Isi arp pada pc 1 menyimpan alamat ip pc 0.
 
 ![Gambar 8](../assets/minggu-3/pkjpak8.PNG)
 
