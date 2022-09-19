@@ -16,7 +16,7 @@ Pengaturan ip pada pc 0
 
 ![Gambar 3](../assets/minggu-4/pkj-prak4-3.PNG)
 
-Pengaturan ip pada pc 0
+Pengaturan ip pada pc 1
 
 ![Gambar 4](../assets/minggu-4/pkj-prak4-4.PNG)
 
