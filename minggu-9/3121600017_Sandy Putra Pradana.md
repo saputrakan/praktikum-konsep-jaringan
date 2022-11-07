@@ -47,7 +47,7 @@ Perintah yang digunakan pada router 0 untuk mengaktifkan RIP:
         Router(config-router)#network 192.168.1.0
         Router(config-router)#network 192.168.2.0
 
-### 5. Testing Convergence Time And Routing RIP
+### 5. Testing Routing RIP
 
 ![Gambar 2](../assets/minggu-9/2.PNG)
 
